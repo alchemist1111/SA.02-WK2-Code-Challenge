@@ -41,6 +41,7 @@ That's it! You've successfully cloned a project from GitHub. Now you can navigat
 
 ## Live Link.
 
+                           https://alchemist1111.github.io/SA.02-WK2-Code-Challenge/
 
 ## Technologies Used.
 Javascript.
