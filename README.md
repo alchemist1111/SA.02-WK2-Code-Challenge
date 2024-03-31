@@ -19,7 +19,7 @@ You use git clone on your computer's terminal to download the documents in the G
 ## Installation Requirements.
 Git.
 If you want to contribute to the repository or clone it to your local machine, you need to have Git installed.
-Install Git from <a href="the official website." target="_blank">
+Install Git from <a href="https://git-scm.com/" target="_blank">the official website</a>.
 
 
 ## Installation Instruction.
