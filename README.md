@@ -48,7 +48,7 @@ Javascript.
 
 
 ## Support and contact details
-github.com/alchemist1111
+<a href="https://github.com/alchemist1111" target="blank">github.com/alchemist1111</a>
 
 
 ## License.
@@ -56,3 +56,6 @@ The content of this site is licensed under the MIT license
 Copyright (c) 2024.
 
 
+
+
+[def]: ttps://github.com/alchemist111
